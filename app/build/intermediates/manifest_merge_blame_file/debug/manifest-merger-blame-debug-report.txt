@@ -1,0 +1,156 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.coleta_logsup"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:5:5-64
+11-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:5:22-62
+12
+13    <uses-feature android:name="android.hardware.camera.autofocus" />
+13-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:6:5-69
+13-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:6:19-67
+14
+15    <application
+15-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:8:5-44:19
+16        android:allowBackup="true"
+16-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:9:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.3.1] C:\Users\posve\.gradle\caches\transforms-3\fc1dd39c6ae58ee4cd13a87b264b70fb\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.App_coleta_de_bagagens" >
+24-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:14:9-60
+25        <activity
+25-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:15:9-23:20
+26            android:name="com.example.coleta_logsup.activities.StartActivity"
+26-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:16:13-53
+27            android:exported="true" >
+27-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:17:13-36
+28            <intent-filter>
+28-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:18:13-22:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:19:17-69
+29-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:19:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:21:17-77
+31-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:21:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity android:name="com.example.coleta_logsup.activities.MainMenuActivity" />
+34-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:24:9-65
+34-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:24:19-62
+35        <activity android:name="com.example.coleta_logsup.activities.LoginActivity" />
+35-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:25:9-62
+35-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:25:19-59
+36        <activity android:name="com.example.coleta_logsup.activities.users.UsersActivity" />
+36-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:26:9-68
+36-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:26:19-65
+37        <activity android:name="com.example.coleta_logsup.activities.users.UserEditActivity" />
+37-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:27:9-71
+37-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:27:19-68
+38        <activity android:name="com.example.coleta_logsup.activities.users.UserNewActivity" />
+38-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:28:9-70
+38-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:28:19-67
+39        <activity android:name="com.example.coleta_logsup.activities.users.UserShowActivity" />
+39-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:29:9-71
+39-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:29:19-68
+40        <activity android:name="com.example.coleta_logsup.activities.airports.AirportsActivity" />
+40-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:30:9-74
+40-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:30:19-71
+41        <activity android:name="com.example.coleta_logsup.activities.airports.AirportEditActivity" />
+41-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:31:9-77
+41-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:31:19-74
+42        <activity android:name="com.example.coleta_logsup.activities.airports.AirportNewActivity" />
+42-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:32:9-76
+42-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:32:19-73
+43        <activity android:name="com.example.coleta_logsup.activities.airports.AirportShowActivity" />
+43-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:33:9-77
+43-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:33:19-74
+44        <activity android:name="com.example.coleta_logsup.activities.baggages.BaggagesActivity" />
+44-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:34:9-74
+44-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:34:19-71
+45        <activity android:name="com.example.coleta_logsup.activities.baggages.BaggageEditActivity" />
+45-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:35:9-77
+45-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:35:19-74
+46        <activity android:name="com.example.coleta_logsup.activities.baggages.BaggageNewActivity" />
+46-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:36:9-76
+46-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:36:19-73
+47        <activity android:name="com.example.coleta_logsup.activities.baggages.BaggageShowActivity" />
+47-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:37:9-77
+47-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:37:19-74
+48        <activity android:name="com.example.coleta_logsup.activities.ScanActivity" />
+48-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:38:9-61
+48-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:38:19-58
+49        <activity android:name="com.example.coleta_logsup.activities.ScanCodeActivity" />
+49-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:39:9-65
+49-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:39:19-62
+50        <activity android:name="com.example.coleta_logsup.activities.LoginActivity01" />
+50-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:40:9-64
+50-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:40:19-61
+51        <activity android:name="com.example.coleta_logsup.activities.JustifyActivity" />
+51-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:41:9-64
+51-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:41:19-61
+52        <activity android:name="com.example.coleta_logsup.activities.UploadPhoto" />
+52-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:42:9-60
+52-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:42:19-57
+53        <activity android:name="com.example.coleta_logsup.activities.EnterBarCodeActivity" />
+53-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:43:9-69
+53-->C:\Users\posve\AndroidStudioProjects\app_coleta_bagagens-main\app\src\main\AndroidManifest.xml:43:19-66
+54        <activity
+54-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\03dc8f6bffc2b1e69feec4787cbb336d\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:23:9-27:75
+55            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+55-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\03dc8f6bffc2b1e69feec4787cbb336d\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:24:13-93
+56            android:excludeFromRecents="true"
+56-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\03dc8f6bffc2b1e69feec4787cbb336d\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:25:13-46
+57            android:exported="false"
+57-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\03dc8f6bffc2b1e69feec4787cbb336d\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:26:13-37
+58            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+58-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\03dc8f6bffc2b1e69feec4787cbb336d\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:27:13-72
+59        <!--
+60            Service handling Google Sign-In user revocation. For apps that do not integrate with
+61            Google Sign-In, this service will never be started.
+62        -->
+63        <service
+63-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\03dc8f6bffc2b1e69feec4787cbb336d\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:33:9-36:110
+64            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+64-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\03dc8f6bffc2b1e69feec4787cbb336d\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:34:13-89
+65            android:exported="true"
+65-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\03dc8f6bffc2b1e69feec4787cbb336d\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:35:13-36
+66            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+66-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\03dc8f6bffc2b1e69feec4787cbb336d\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:36:13-107
+67
+68        <activity
+68-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\fed659942632789fbaa5c17b2f84572b\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+69            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+69-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\fed659942632789fbaa5c17b2f84572b\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+70            android:exported="false"
+70-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\fed659942632789fbaa5c17b2f84572b\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+71            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+71-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\fed659942632789fbaa5c17b2f84572b\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+72
+73        <meta-data
+73-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\7d005b9d874635820584a60d93416a5a\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+74            android:name="com.google.android.gms.version"
+74-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\7d005b9d874635820584a60d93416a5a\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
+75            android:value="@integer/google_play_services_version" />
+75-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\7d005b9d874635820584a60d93416a5a\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+76    </application>
+77
+78</manifest>
