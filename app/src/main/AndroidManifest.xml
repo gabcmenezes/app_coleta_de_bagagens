@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.coleta_logsup">
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.App_coleta_de_bagagens">
+        <activity
+            android:name=".activities.ScanActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.InsertDataIntoGoogleSheets" />
+        <activity android:name=".activities.AddItem" />
+        <activity android:name=".activities.SuccessActivity" />
+        <activity android:name=".activities.MainMenuActivity" />
+        <activity android:name=".activities.LoginActivity" />
+        <activity android:name=".activities.users.UsersActivity" />
+        <activity android:name=".activities.users.UserEditActivity" />
+        <activity android:name=".activities.users.UserNewActivity" />
+        <activity android:name=".activities.users.UserShowActivity" />
+        <activity android:name=".activities.airports.AirportsActivity" />
+        <activity android:name=".activities.airports.AirportEditActivity" />
+        <activity android:name=".activities.airports.AirportNewActivity" />
+        <activity android:name=".activities.airports.AirportShowActivity" />
+        <activity android:name=".activities.baggages.BaggagesActivity" />
+        <activity android:name=".activities.baggages.BaggageEditActivity" />
+        <activity android:name=".activities.baggages.BaggageNewActivity" />
+        <activity android:name=".activities.baggages.BaggageShowActivity" />
+        <activity android:name=".activities.StartActivity" />
+        <activity android:name=".activities.ScanCodeActivity" />
+        <activity android:name=".activities.TestSaveBarCodeIntoExcel" />
+        <activity android:name=".activities.JustifyActivity" />
+        <activity android:name=".activities.UploadPhoto" />
+        <activity android:name=".activities.EnterBarCodeActivity" />
+        <activity android:name=".activities.LoginActivity01" />
+    </application>
+
+</manifest>

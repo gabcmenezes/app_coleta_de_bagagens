@@ -1,0 +1,114 @@
+com/example/coleta_logsup/activities/InsertDataIntoGoogleSheets.java
+ com.example.coleta_logsup.activities.InsertDataIntoGoogleSheets
+ com.example.coleta_logsup.activities.InsertDataIntoGoogleSheets$1
+ com.example.coleta_logsup.activities.InsertDataIntoGoogleSheets$2
+ com.example.coleta_logsup.activities.InsertDataIntoGoogleSheets$3
+ com.example.coleta_logsup.activities.InsertDataIntoGoogleSheets$4
+com/example/coleta_logsup/models/Baggage.java
+ com.example.coleta_logsup.models.Baggage
+com/example/coleta_logsup/utils/UserListAdapter.java
+ com.example.coleta_logsup.utils.UserListAdapter
+ com.example.coleta_logsup.utils.UserListAdapter$ViewHolder
+ com.example.coleta_logsup.utils.UserListAdapter$ViewHolder$1
+ com.example.coleta_logsup.utils.UserListAdapter$ViewHolder$2
+ com.example.coleta_logsup.utils.UserListAdapter$ViewHolder$3
+com/example/coleta_logsup/activities/users/UserNewActivity.java
+ com.example.coleta_logsup.activities.users.UserNewActivity
+ com.example.coleta_logsup.activities.users.UserNewActivity$1
+com/example/coleta_logsup/models/Airport.java
+ com.example.coleta_logsup.models.Airport
+com/example/coleta_logsup/activities/airports/AirportNewActivity.java
+ com.example.coleta_logsup.activities.airports.AirportNewActivity
+com/example/coleta_logsup/activities/EnterBarCodeActivity.java
+ com.example.coleta_logsup.activities.EnterBarCodeActivity
+ com.example.coleta_logsup.activities.EnterBarCodeActivity$1
+com/example/coleta_logsup/BuildConfig.java
+ com.example.coleta_logsup.BuildConfig
+com/example/coleta_logsup/enums/Category.java
+ com.example.coleta_logsup.enums.Category
+com/example/coleta_logsup/activities/users/UsersActivity.java
+ com.example.coleta_logsup.activities.users.UsersActivity
+com/example/coleta_logsup/activities/users/UserEditActivity.java
+ com.example.coleta_logsup.activities.users.UserEditActivity
+ com.example.coleta_logsup.activities.users.UserEditActivity$1
+com/example/coleta_logsup/activities/TestSaveBarCodeIntoExcel.java
+ com.example.coleta_logsup.activities.TestSaveBarCodeIntoExcel
+ com.example.coleta_logsup.activities.TestSaveBarCodeIntoExcel$1
+ com.example.coleta_logsup.activities.TestSaveBarCodeIntoExcel$DadosPlanilha
+com/example/coleta_logsup/activities/baggages/BaggageShowActivity.java
+ com.example.coleta_logsup.activities.baggages.BaggageShowActivity
+com/example/coleta_logsup/activities/UploadPhoto.java
+ com.example.coleta_logsup.activities.UploadPhoto
+ com.example.coleta_logsup.activities.UploadPhoto$1
+com/example/coleta_logsup/daos/seeds/BaggagesSeeds.java
+ com.example.coleta_logsup.daos.seeds.BaggagesSeeds
+com/example/coleta_logsup/activities/ScanCodeActivity.java
+ com.example.coleta_logsup.activities.ScanCodeActivity
+com/example/coleta_logsup/activities/airports/AirportEditActivity.java
+ com.example.coleta_logsup.activities.airports.AirportEditActivity
+com/example/coleta_logsup/daos/seeds/UsersSeeds.java
+ com.example.coleta_logsup.daos.seeds.UsersSeeds
+com/example/coleta_logsup/activities/SuccessActivity.java
+ com.example.coleta_logsup.activities.SuccessActivity
+com/example/coleta_logsup/utils/BaggageListAdapter.java
+ com.example.coleta_logsup.utils.BaggageListAdapter
+ com.example.coleta_logsup.utils.BaggageListAdapter$ViewHolder
+ com.example.coleta_logsup.utils.BaggageListAdapter$ViewHolder$1
+ com.example.coleta_logsup.utils.BaggageListAdapter$ViewHolder$2
+ com.example.coleta_logsup.utils.BaggageListAdapter$ViewHolder$3
+com/example/coleta_logsup/enums/Roles.java
+ com.example.coleta_logsup.enums.Roles
+com/example/coleta_logsup/activities/LoginActivity01.java
+ com.example.coleta_logsup.activities.LoginActivity01
+ com.example.coleta_logsup.activities.LoginActivity01$1
+ com.example.coleta_logsup.activities.LoginActivity01$2
+com/example/coleta_logsup/daos/seeds/AirportsSeeds.java
+ com.example.coleta_logsup.daos.seeds.AirportsSeeds
+com/example/coleta_logsup/activities/airports/AirportsActivity.java
+ com.example.coleta_logsup.activities.airports.AirportsActivity
+com/example/coleta_logsup/utils/Connection.java
+ com.example.coleta_logsup.utils.Connection
+com/example/coleta_logsup/activities/users/UserShowActivity.java
+ com.example.coleta_logsup.activities.users.UserShowActivity
+com/example/coleta_logsup/activities/baggages/BaggageEditActivity.java
+ com.example.coleta_logsup.activities.baggages.BaggageEditActivity
+com/example/coleta_logsup/activities/baggages/BaggageNewActivity.java
+ com.example.coleta_logsup.activities.baggages.BaggageNewActivity
+com/example/coleta_logsup/daos/AirportDAO.java
+ com.example.coleta_logsup.daos.AirportDAO
+com/example/coleta_logsup/activities/baggages/BaggagesActivity.java
+ com.example.coleta_logsup.activities.baggages.BaggagesActivity
+com/example/coleta_logsup/daos/UserDAO.java
+ com.example.coleta_logsup.daos.UserDAO
+com/example/coleta_logsup/activities/AddItem.java
+ com.example.coleta_logsup.activities.AddItem
+ com.example.coleta_logsup.activities.AddItem$1
+ com.example.coleta_logsup.activities.AddItem$2
+ com.example.coleta_logsup.activities.AddItem$3
+com/example/coleta_logsup/utils/AirportListAdapter.java
+ com.example.coleta_logsup.utils.AirportListAdapter
+ com.example.coleta_logsup.utils.AirportListAdapter$ViewHolder
+ com.example.coleta_logsup.utils.AirportListAdapter$ViewHolder$1
+com/example/coleta_logsup/activities/airports/AirportShowActivity.java
+ com.example.coleta_logsup.activities.airports.AirportShowActivity
+com/example/coleta_logsup/activities/StartActivity.java
+ com.example.coleta_logsup.activities.StartActivity
+com/example/coleta_logsup/activities/MainMenuActivity.java
+ com.example.coleta_logsup.activities.MainMenuActivity
+com/example/coleta_logsup/models/User.java
+ com.example.coleta_logsup.models.User
+com/example/coleta_logsup/activities/LoginActivity.java
+ com.example.coleta_logsup.activities.LoginActivity
+com/example/coleta_logsup/activities/JustifyActivity.java
+ com.example.coleta_logsup.activities.JustifyActivity
+ com.example.coleta_logsup.activities.JustifyActivity$1
+com/example/coleta_logsup/activities/ActivityMain.java
+ com.example.coleta_logsup.activities.ActivityMain
+com/example/coleta_logsup/daos/BaggageDAO.java
+ com.example.coleta_logsup.daos.BaggageDAO
+com/example/coleta_logsup/factories/DatabaseFactory.java
+ com.example.coleta_logsup.factories.DatabaseFactory
+com/example/coleta_logsup/activities/ScanActivity.java
+ com.example.coleta_logsup.activities.ScanActivity
+ com.example.coleta_logsup.activities.ScanActivity$1
+ com.example.coleta_logsup.activities.ScanActivity$DadosPlanilha

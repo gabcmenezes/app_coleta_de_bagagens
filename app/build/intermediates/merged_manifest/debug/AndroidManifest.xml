@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.coleta_logsup"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="31" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.App_coleta_de_bagagens" >
+        <activity
+            android:name="com.example.coleta_logsup.activities.ScanActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.coleta_logsup.activities.InsertDataIntoGoogleSheets" />
+        <activity android:name="com.example.coleta_logsup.activities.AddItem" />
+        <activity android:name="com.example.coleta_logsup.activities.SuccessActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.MainMenuActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.LoginActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.users.UsersActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.users.UserEditActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.users.UserNewActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.users.UserShowActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.airports.AirportsActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.airports.AirportEditActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.airports.AirportNewActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.airports.AirportShowActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.baggages.BaggagesActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.baggages.BaggageEditActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.baggages.BaggageNewActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.baggages.BaggageShowActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.StartActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.ScanCodeActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.TestSaveBarCodeIntoExcel" />
+        <activity android:name="com.example.coleta_logsup.activities.JustifyActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.UploadPhoto" />
+        <activity android:name="com.example.coleta_logsup.activities.EnterBarCodeActivity" />
+        <activity android:name="com.example.coleta_logsup.activities.LoginActivity01" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+            Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

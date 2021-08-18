@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">LOGSUP</string>
+    <string name="app_logo">Logo da aplicação</string>
+    <string name="app_version">v.0.1-dev</string>
+
+    <!-- (((USERS))) -->
+    <string name="user">Usuário</string>
+    <string name="users">Usuários</string>
+    <string name="new_user">Novo Usuário</string>
+    <string name="edit_user">Editar Usuário</string>
+    <string name="list_users">Lista de Usuários</string>
+    <string name="role">Cargo</string>
+    <!-- (((FIM USERS))) -->
+
+    <!-- (((CLIENTS))) -->
+    <string name="client">Cliente</string>
+    <string name="clients">Clientes</string>
+    <string name="new_client">Novo Cliente</string>
+    <string name="edit_client">Editar Cliente</string>
+    <string name="list_clients">Lista de Clientes</string>
+    <!-- (((FIM CLIENTES))) -->
+
+    <!-- (((AIRPORTS))) -->
+    <string name="airport">PA</string>
+    <string name="airports">PAs</string>
+    <string name="new_airport">PA</string>
+    <string name="edit_airport">Editar PA</string>
+    <string name="list_pa">Lista de PAs</string>
+    <string name="airport_availablility">Diponível</string>
+    <string name="initials">Sigla</string>
+    <string name="uf">UF</string>
+    <!-- (((FIM AIRPORTS))) -->
+
+
+    <!-- (((BAGAGENS))) -->
+    <string name="baggage">Bagagens</string>
+    <string name="baggages">Bagagens</string>
+    <string name="new_baggage">Nova Bagagem</string>
+    <string name="edit_baggage">Editar Bagagem</string>
+    <string name="list_baggages">Lista de Bagagem</string>
+    <string name="baggage_availablility">Diponível</string>
+    <!-- (((FIM BAGAGENS))) -->
+
+
+    <!-- (((SCAN))) -->
+    <string name="text_qtde_bagagens_para_coleta">Quantidade de bagagens para coleta:</string>
+    <string name="tot_bagagens_lidas">Total de bagagens lidas:</string>
+    <!-- (((FIM SCAN))) -->
+
+
+    <!-- (((RATING SCREEN))) -->
+    <string name="cabecalhoRatingScreen">Pedimos desculpas pelo ocorrido com sua bagagem. Para melhorar nossos processos, como você avaliaria os seguintes atributos? (de 0 a 5 estrelas)</string>
+    <string name="question1">1) Atendimento da equipe coleta_logsup no desembarque:</string>
+    <string name="question2">2) Qualidade das informações recebidas ao longo do processo:</string>
+    <string name="question3">3) Facilidade em acompanhar a entrega da bagagem:</string>
+    <string name="question4">4) Tempo de entrega:</string>
+    <string name="question5">5) Transportadora LogsUp:</string>
+    <!-- (((FIM RATING SCREEN))) -->
+
+
+
+    <string name="login">Acessar</string>
+    <string name="name">Nome</string>
+    <string name="surname">Sobrenome</string>
+    <string name="cpf">CPF</string>
+    <string name="password">Senha</string>
+    <string name="phone">Telefone</string>
+    <string name="category">Categoria</string>
+    <string name="admin">Administrador</string>
+    <string name="price">Preço</string>
+    <string name="calendar">Agenda</string>
+    <string name="carts">Compras</string>
+    <string name="details">Detalhes</string>
+    <string name="remove">Remover</string>
+    <string name="quantity">Quantidade</string>
+    <string name="edit">Editar</string>
+    <string name="save">Salvar</string>
+    <string name="back">Voltar</string>
+
+    <string-array name="role_array">
+        <item>Analista</item>
+        <item>Gerente</item>
+        <item>Diretor</item>
+        <item>Presidente</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>Cuidado</item>
+        <item>Conforto</item>
+        <item>Brinquedos</item>
+        <item>Saúde</item>
+        <item>Serviço</item>
+    </string-array>
+</resources>

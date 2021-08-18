@@ -1,0 +1,384 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\posve\.gradle\caches\transforms-3\3d30de86c27bb24ec39c1f55524d0b54\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\posve\.gradle\caches\transforms-3\8d98eeb656d373d523b554e09fbb1eca\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\4f7fde6443b19e6ece3941e32d79f216\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.games:games-activity:1.0.0-rc01] C:\Users\posve\.gradle\caches\transforms-3\d2e934dc766eb9d6c9c41269925869c0\transformed\jetified-games-activity-1.0.0-rc01\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\92163c0e5b67529619da3dbc21125751\transformed\jetified-volley-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\posve\.gradle\caches\transforms-3\cbf407298590b2559729b2c8aafa8feb\transformed\jetified-zxing-1.9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\21f1c76d55233e14d316e80bad84737f\transformed\jetified-play-services-auth-api-phone-15.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.1.0] C:\Users\posve\.gradle\caches\transforms-3\bea6c82869dbacc339a2b75b4cfdfaf4\transformed\jetified-play-services-auth-base-15.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\77748b0b33975e1bed1de9a7112db0a9\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\2bc08b4cc2f4f763d15d39472aaa8c77\transformed\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\8de0614165d7ea1fccdb21fd50c58d19\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\posve\.gradle\caches\transforms-3\6bb28836e65efd4cb761693126c5720c\transformed\jetified-core-1.9\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\3fe5827d6ee265022c6c7d744237ebf4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\913e08ed52afe8f9bdfeff7169cfe857\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\769e8eeb090a40829e9ec33d2a71a862\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\68653bf21883c8f561deda403f4d10fb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\37dd68a38dc2fe0f95c2ba962d982159\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\f4f96b6f64c4e289016b728e9d598190\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\06a90d9743f8212f77a343f46d78c090\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\f950e68cf2d530665e7ddc5a0bb6330c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\c22fd05136e22dd74f12fdb52c866d0a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\06d232761adef0ba5b5d99fd1a4b3500\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\bf9fef39d4962548a4e4bead6bd316b6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\34e4afa6bdb61e696bb8f3d82c690a41\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\ec14db118fa5a12c63b129931d41ad83\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\5b5b966ca59807804aa23da69f0f2cc1\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\3a91b684008f575ae984b8716902e3f7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\4fb902d840465e2b9805977f1d6b945a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\325c92f53eda8c8102854a7546350aed\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\af07ceebc9ddad3887a8cc2866511b22\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\2f558a16ae7effefb4c40445cb99fcf6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\ab184f952a956d2124517adce3ea9eec\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\a44f7d642c441ca604adf667f4646668\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\02ba2442eddfc12787d7e8f7834095e1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\1d5929fdd2dd1eb6526d78cff549db56\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\posve\.gradle\caches\transforms-3\fc1dd39c6ae58ee4cd13a87b264b70fb\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\a93fe92a5eaf91278a2abfb823162f7a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\posve\.gradle\caches\transforms-3\9d414050ca8af8aaf07d560069d0353b\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\posve\.gradle\caches\transforms-3\7f288a0b9bf5d3232f4a344936bfca78\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\3a94067bbc7a20922fd67b30f2364566\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\2c33c4bae6ea4f0acc28f0ec64c6b2d4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\23574aa646515120bc7d481972f71742\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\4a686211be3134d52c983281414d9a4c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\137fae5cb8b43fd4d77cda20fb259169\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\posve\.gradle\caches\transforms-3\e39262abccdf4c3a9281c19542803319\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\posve\.gradle\caches\transforms-3\98006fa0842eeb889f972732f9d31478\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\posve\.gradle\caches\transforms-3\e656f0c5b9b75f08d112991d26ac37df\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\301b99617320b59a57400f8a9ec84a15\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:6:22-64
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:7:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:9:22-77
+application
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:13:5-53:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\posve\.gradle\caches\transforms-3\3d30de86c27bb24ec39c1f55524d0b54\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\posve\.gradle\caches\transforms-3\3d30de86c27bb24ec39c1f55524d0b54\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\posve\.gradle\caches\transforms-3\8d98eeb656d373d523b554e09fbb1eca\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\posve\.gradle\caches\transforms-3\8d98eeb656d373d523b554e09fbb1eca\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\posve\.gradle\caches\transforms-3\cbf407298590b2559729b2c8aafa8feb\transformed\jetified-zxing-1.9\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\posve\.gradle\caches\transforms-3\cbf407298590b2559729b2c8aafa8feb\transformed\jetified-zxing-1.9\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\77748b0b33975e1bed1de9a7112db0a9\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\77748b0b33975e1bed1de9a7112db0a9\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\2bc08b4cc2f4f763d15d39472aaa8c77\transformed\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\2bc08b4cc2f4f763d15d39472aaa8c77\transformed\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\8de0614165d7ea1fccdb21fd50c58d19\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\8de0614165d7ea1fccdb21fd50c58d19\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\posve\.gradle\caches\transforms-3\6bb28836e65efd4cb761693126c5720c\transformed\jetified-core-1.9\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\posve\.gradle\caches\transforms-3\6bb28836e65efd4cb761693126c5720c\transformed\jetified-core-1.9\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\posve\.gradle\caches\transforms-3\fc1dd39c6ae58ee4cd13a87b264b70fb\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\posve\.gradle\caches\transforms-3\fc1dd39c6ae58ee4cd13a87b264b70fb\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\a93fe92a5eaf91278a2abfb823162f7a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\a93fe92a5eaf91278a2abfb823162f7a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\posve\.gradle\caches\transforms-3\fc1dd39c6ae58ee4cd13a87b264b70fb\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:19:9-60
+activity#com.example.coleta_logsup.activities.ScanActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:exported
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:21:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.coleta_logsup.activities.InsertDataIntoGoogleSheets
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:29:9-75
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:29:19-72
+activity#com.example.coleta_logsup.activities.AddItem
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:30:9-56
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:30:19-53
+activity#com.example.coleta_logsup.activities.SuccessActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:31:9-64
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:31:19-61
+activity#com.example.coleta_logsup.activities.MainMenuActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:32:9-65
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:32:19-62
+activity#com.example.coleta_logsup.activities.LoginActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:33:9-62
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:33:19-59
+activity#com.example.coleta_logsup.activities.users.UsersActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:34:9-68
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:34:19-65
+activity#com.example.coleta_logsup.activities.users.UserEditActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:35:9-71
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:35:19-68
+activity#com.example.coleta_logsup.activities.users.UserNewActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:36:9-70
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:36:19-67
+activity#com.example.coleta_logsup.activities.users.UserShowActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:37:9-71
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:37:19-68
+activity#com.example.coleta_logsup.activities.airports.AirportsActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:38:9-74
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:38:19-71
+activity#com.example.coleta_logsup.activities.airports.AirportEditActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:39:9-77
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:39:19-74
+activity#com.example.coleta_logsup.activities.airports.AirportNewActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:40:9-76
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:40:19-73
+activity#com.example.coleta_logsup.activities.airports.AirportShowActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:41:9-77
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:41:19-74
+activity#com.example.coleta_logsup.activities.baggages.BaggagesActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:42:9-74
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:42:19-71
+activity#com.example.coleta_logsup.activities.baggages.BaggageEditActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:43:9-77
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:43:19-74
+activity#com.example.coleta_logsup.activities.baggages.BaggageNewActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:44:9-76
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:44:19-73
+activity#com.example.coleta_logsup.activities.baggages.BaggageShowActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:45:9-77
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:45:19-74
+activity#com.example.coleta_logsup.activities.StartActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:46:9-62
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:46:19-59
+activity#com.example.coleta_logsup.activities.ScanCodeActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:47:9-65
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:47:19-62
+activity#com.example.coleta_logsup.activities.TestSaveBarCodeIntoExcel
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:48:9-73
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:48:19-70
+activity#com.example.coleta_logsup.activities.JustifyActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:49:9-64
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:49:19-61
+activity#com.example.coleta_logsup.activities.UploadPhoto
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:50:9-60
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:50:19-57
+activity#com.example.coleta_logsup.activities.EnterBarCodeActivity
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:51:9-69
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:51:19-66
+activity#com.example.coleta_logsup.activities.LoginActivity01
+ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:52:9-64
+	android:name
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml:52:19-61
+uses-sdk
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\posve\.gradle\caches\transforms-3\3d30de86c27bb24ec39c1f55524d0b54\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\posve\.gradle\caches\transforms-3\3d30de86c27bb24ec39c1f55524d0b54\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\posve\.gradle\caches\transforms-3\8d98eeb656d373d523b554e09fbb1eca\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\posve\.gradle\caches\transforms-3\8d98eeb656d373d523b554e09fbb1eca\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\4f7fde6443b19e6ece3941e32d79f216\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\4f7fde6443b19e6ece3941e32d79f216\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.games:games-activity:1.0.0-rc01] C:\Users\posve\.gradle\caches\transforms-3\d2e934dc766eb9d6c9c41269925869c0\transformed\jetified-games-activity-1.0.0-rc01\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.games:games-activity:1.0.0-rc01] C:\Users\posve\.gradle\caches\transforms-3\d2e934dc766eb9d6c9c41269925869c0\transformed\jetified-games-activity-1.0.0-rc01\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\92163c0e5b67529619da3dbc21125751\transformed\jetified-volley-1.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\92163c0e5b67529619da3dbc21125751\transformed\jetified-volley-1.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\posve\.gradle\caches\transforms-3\cbf407298590b2559729b2c8aafa8feb\transformed\jetified-zxing-1.9\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\posve\.gradle\caches\transforms-3\cbf407298590b2559729b2c8aafa8feb\transformed\jetified-zxing-1.9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\21f1c76d55233e14d316e80bad84737f\transformed\jetified-play-services-auth-api-phone-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\21f1c76d55233e14d316e80bad84737f\transformed\jetified-play-services-auth-api-phone-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.1.0] C:\Users\posve\.gradle\caches\transforms-3\bea6c82869dbacc339a2b75b4cfdfaf4\transformed\jetified-play-services-auth-base-15.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.1.0] C:\Users\posve\.gradle\caches\transforms-3\bea6c82869dbacc339a2b75b4cfdfaf4\transformed\jetified-play-services-auth-base-15.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\77748b0b33975e1bed1de9a7112db0a9\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\77748b0b33975e1bed1de9a7112db0a9\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\2bc08b4cc2f4f763d15d39472aaa8c77\transformed\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\2bc08b4cc2f4f763d15d39472aaa8c77\transformed\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\8de0614165d7ea1fccdb21fd50c58d19\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\8de0614165d7ea1fccdb21fd50c58d19\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\posve\.gradle\caches\transforms-3\6bb28836e65efd4cb761693126c5720c\transformed\jetified-core-1.9\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\posve\.gradle\caches\transforms-3\6bb28836e65efd4cb761693126c5720c\transformed\jetified-core-1.9\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\3fe5827d6ee265022c6c7d744237ebf4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\3fe5827d6ee265022c6c7d744237ebf4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\913e08ed52afe8f9bdfeff7169cfe857\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\913e08ed52afe8f9bdfeff7169cfe857\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\769e8eeb090a40829e9ec33d2a71a862\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\769e8eeb090a40829e9ec33d2a71a862\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\68653bf21883c8f561deda403f4d10fb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\68653bf21883c8f561deda403f4d10fb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\37dd68a38dc2fe0f95c2ba962d982159\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\37dd68a38dc2fe0f95c2ba962d982159\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\f4f96b6f64c4e289016b728e9d598190\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\f4f96b6f64c4e289016b728e9d598190\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\06a90d9743f8212f77a343f46d78c090\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\06a90d9743f8212f77a343f46d78c090\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\f950e68cf2d530665e7ddc5a0bb6330c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\f950e68cf2d530665e7ddc5a0bb6330c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\c22fd05136e22dd74f12fdb52c866d0a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\c22fd05136e22dd74f12fdb52c866d0a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\06d232761adef0ba5b5d99fd1a4b3500\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\posve\.gradle\caches\transforms-3\06d232761adef0ba5b5d99fd1a4b3500\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\bf9fef39d4962548a4e4bead6bd316b6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\bf9fef39d4962548a4e4bead6bd316b6\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\34e4afa6bdb61e696bb8f3d82c690a41\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\34e4afa6bdb61e696bb8f3d82c690a41\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\ec14db118fa5a12c63b129931d41ad83\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\ec14db118fa5a12c63b129931d41ad83\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\5b5b966ca59807804aa23da69f0f2cc1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\5b5b966ca59807804aa23da69f0f2cc1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\3a91b684008f575ae984b8716902e3f7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\3a91b684008f575ae984b8716902e3f7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\4fb902d840465e2b9805977f1d6b945a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\4fb902d840465e2b9805977f1d6b945a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\325c92f53eda8c8102854a7546350aed\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\325c92f53eda8c8102854a7546350aed\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\af07ceebc9ddad3887a8cc2866511b22\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\af07ceebc9ddad3887a8cc2866511b22\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\2f558a16ae7effefb4c40445cb99fcf6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\2f558a16ae7effefb4c40445cb99fcf6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\ab184f952a956d2124517adce3ea9eec\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\ab184f952a956d2124517adce3ea9eec\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\a44f7d642c441ca604adf667f4646668\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\a44f7d642c441ca604adf667f4646668\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\02ba2442eddfc12787d7e8f7834095e1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\02ba2442eddfc12787d7e8f7834095e1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\1d5929fdd2dd1eb6526d78cff549db56\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\1d5929fdd2dd1eb6526d78cff549db56\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\posve\.gradle\caches\transforms-3\fc1dd39c6ae58ee4cd13a87b264b70fb\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\posve\.gradle\caches\transforms-3\fc1dd39c6ae58ee4cd13a87b264b70fb\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\a93fe92a5eaf91278a2abfb823162f7a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\posve\.gradle\caches\transforms-3\a93fe92a5eaf91278a2abfb823162f7a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\posve\.gradle\caches\transforms-3\9d414050ca8af8aaf07d560069d0353b\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\posve\.gradle\caches\transforms-3\9d414050ca8af8aaf07d560069d0353b\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\posve\.gradle\caches\transforms-3\7f288a0b9bf5d3232f4a344936bfca78\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\posve\.gradle\caches\transforms-3\7f288a0b9bf5d3232f4a344936bfca78\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\3a94067bbc7a20922fd67b30f2364566\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\3a94067bbc7a20922fd67b30f2364566\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\2c33c4bae6ea4f0acc28f0ec64c6b2d4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\2c33c4bae6ea4f0acc28f0ec64c6b2d4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\23574aa646515120bc7d481972f71742\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\23574aa646515120bc7d481972f71742\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\4a686211be3134d52c983281414d9a4c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\4a686211be3134d52c983281414d9a4c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\137fae5cb8b43fd4d77cda20fb259169\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\137fae5cb8b43fd4d77cda20fb259169\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\posve\.gradle\caches\transforms-3\e39262abccdf4c3a9281c19542803319\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\posve\.gradle\caches\transforms-3\e39262abccdf4c3a9281c19542803319\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\posve\.gradle\caches\transforms-3\98006fa0842eeb889f972732f9d31478\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\posve\.gradle\caches\transforms-3\98006fa0842eeb889f972732f9d31478\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\posve\.gradle\caches\transforms-3\e656f0c5b9b75f08d112991d26ac37df\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\posve\.gradle\caches\transforms-3\e656f0c5b9b75f08d112991d26ac37df\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\301b99617320b59a57400f8a9ec84a15\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\posve\.gradle\caches\transforms-3\301b99617320b59a57400f8a9ec84a15\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\posve\AndroidStudioProjects\app_scan_cielo_2023\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] C:\Users\posve\.gradle\caches\transforms-3\6294e81ad59e27a0432cde9505ededef\transformed\jetified-play-services-auth-16.0.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\77748b0b33975e1bed1de9a7112db0a9\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\77748b0b33975e1bed1de9a7112db0a9\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\77748b0b33975e1bed1de9a7112db0a9\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\77748b0b33975e1bed1de9a7112db0a9\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\8de0614165d7ea1fccdb21fd50c58d19\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\8de0614165d7ea1fccdb21fd50c58d19\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\posve\.gradle\caches\transforms-3\8de0614165d7ea1fccdb21fd50c58d19\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
